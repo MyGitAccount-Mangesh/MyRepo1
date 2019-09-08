@@ -1,5 +1,5 @@
 def add(x,y,z):
-    print(x,y,x):
+    pass(x,y,x):
 
 def subtract(x,y,z):
     print(x-y-z):
