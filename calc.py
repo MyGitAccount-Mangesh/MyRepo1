@@ -1,5 +1,6 @@
-def add(x,y):
-    pass
+def add(x,y,z):
+    print(x,y,x):
+
 def subtract(x,y):
     pass
 def multiply(x,y):
